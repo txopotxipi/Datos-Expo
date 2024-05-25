@@ -1,0 +1,164 @@
+Datos actualizados: 
+Datos actualizados: Array
+(
+    [nombre] => 1.-SERVICIO MARÍTIMO
+    [valor] => 1000,00 EUR
+)
+
+Datos actualizados: Array
+(
+    [nombre] => ASDFASDFAD
+    [valor] => ASDFASD
+)
+
+Datos actualizados: 
+Datos actualizados: Array
+(
+    [nombre] => 
+    [valor] => 
+)
+
+Datos actualizados: Array
+(
+    [nombre] => 1.-SERVICIO MARÍTIMO
+    [valor] => 155,00 EUR
+)
+
+Datos actualizados: Array
+(
+    [nombre] => 1.-SERVICIO MARÍTIMO
+    [valor] => 425,00 EUR
+)
+
+Datos actualizados: Array
+(
+    [nombre] => Uniforme de verano
+    [valor] => 1025,00 EUR
+)
+
+Datos actualizados: Array
+(
+    [nombre] => Uniforme de verano
+    [valor] => 245,00 EUR
+)
+
+Datos actualizados: Array
+(
+    [nombre] => Pantalón corto lona (bermudas)
+    [valor] => 1245,00 EUR
+)
+
+Datos actualizados: Array
+(
+    [nombre] => Pantalón corto lona (bermudas)
+    [valor] => 20,00 EUR
+)
+
+Datos actualizados: Array
+(
+    [nombre] => Cartel definición especialidad Seprona (80x22
+    [valor] => 20,00 EUR
+)
+
+Datos actualizados: Array
+(
+    [nombre] => Cartel definición especialidad Seprona (80x22
+    [valor] => 20,00 EUR
+)
+
+Datos actualizados: Array
+(
+    [nombre] => Maniquí de cabeza con Casco SEPRONA
+    [valor] => 2000,00 EUR
+)
+
+Datos actualizados: Array
+(
+    [nombre] => Fotografía compañera (180x160)
+    [valor] => 2000,00 EUR
+)
+
+Datos actualizados: Array
+(
+    [nombre] => Cartel Protección de la Naturaleza con emblema Guardia Civil (80x22)
+    [valor] => 2000,00 EUR
+)
+
+Datos actualizados: Array
+(
+    [nombre] => Cartel definición especialidad Seprona (80x22)
+    [valor] => 2000,00 EUR
+)
+
+Datos actualizados: Array
+(
+    [nombre] => Maniquí de cabeza con Casco SEPRONA
+    [valor] => 200,00 EUR
+)
+
+Datos actualizados: Array
+(
+    [nombre] => Fotografía compañera (180x160)
+    [valor] => 
+)
+
+Datos actualizados: Array
+(
+    [nombre] => Cartel Protección de la Naturaleza con emblema Guardia Civil (80x22)
+    [valor] => 
+)
+
+Datos actualizados: Array
+(
+    [nombre] => Cartel Protección de la Naturaleza con emblema Guardia Civil (80x22)
+    [valor] => 
+)
+
+Datos actualizados: Array
+(
+    [nombre] => Cartel definición especialidad Seprona (80x22
+    [valor] => 
+)
+
+Datos actualizados: Array
+(
+    [nombre] => Cartel emblema especialidad Seprona (45x28)
+    [valor] => 
+)
+
+Datos actualizados: Array
+(
+    [nombre] => Cartel definición especialidad Seprona (80x22)
+    [valor] => 
+)
+
+Datos actualizados: Array
+(
+    [nombre] => Cartel definición especialidad Seprona (80x22)
+    [valor] => null
+)
+
+Datos actualizados: Array
+(
+    [nombre] => Cartel definición especialidad Seprona (80x22)
+    [valor] => 
+)
+
+Datos actualizados: Array
+(
+    [nombre] => Cartel emblema Guardia Civil (45x28).
+    [valor] => 
+)
+
+Datos actualizados: Array
+(
+    [nombre] => Cartel emblema Guardia Civil (45x28)
+    [valor] => 
+)
+
+Datos actualizados: Array
+(
+    [nombre] => Prueba de la Pradera
+    [valor] => 1000,00 EUR
+)
+
